@@ -90,10 +90,6 @@ To run the project locally:
 - **React**: A JavaScript library for building user interfaces.
 - **CSS**: For styling the app.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Author
 
 - **Aditya Jaiswal** - [GitHub](https://github.com/aditya240)
